@@ -1,3 +1,3 @@
 # flame-alert
 
-  Just a simple python script that allows you to get SMS alerts for your cooks. Uses the Twilio SMS service.
+  Just a simple python script that allows you to get SMS alerts for your cooks. Uses the IFTTT to do SMS alerting. The old-twilo script uses the twilo service, which is not free... 
